@@ -32,7 +32,7 @@ Settings and command-line options are quite straightforward.
 
 # Monitor mode
 
-Setting the monitor mode and appropriate channel is left to user. Wifuzzit should be fully functional on any wireless card with injection capabilities but wifuzzit was only tested with Atheros chipsets (such as the AR5212) and madwifi drivers. You have to set up wireless monitor mode without any preamble headers (radiotap, prism or any other).
+Setting the monitor mode and appropriate channel is left to user. It should be fully functional on any wireless card with injection capabilities but it was only tested with Atheros chipsets (such as the AR5212) and madwifi drivers. You have to set up wireless monitor mode without any preamble headers (radiotap, prism or any other).
 
 For madwifi drivers, this could be set thanks to:
 
